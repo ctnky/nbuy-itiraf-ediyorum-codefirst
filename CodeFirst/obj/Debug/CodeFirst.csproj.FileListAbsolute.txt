@@ -1,0 +1,15 @@
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\obj\Debug\CodeFirst.Properties.Resources.resources
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\CTNKYW\source\repos\ITIRAF_EDIYORUM_COM\CodeFirst\obj\Debug\CodeFirst.Migrations.First.resources
